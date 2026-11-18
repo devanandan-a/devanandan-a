@@ -1,40 +1,57 @@
-<div align="center">
+\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC9D6&height=180&section=header&text=Hey%20there!%20I'm%20Devanandana%20🌷&fontSize=30&fontColor=405C4A&animation=fadeIn" width="100%"/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=FFC9D6&height=170&section=header&text=Devanandana&fontSize=48&fontColor=526B58&fontAlignY=40&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=FFC9D6\&height=170\&section=header\&text=Devanandana\&fontSize=48\&fontColor=526B58\&fontAlignY=40\&animation=fadeIn)" width="100%"/>
 
-### 🌸 A little bit of code, a little bit of creativity.
+\<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3000&pause=1000&color=7B9B82&center=true&vCenter=true&width=500&lines=CSE+Student+%F0%9F%92%BB;Curious+Mind+%2C+Creative+Soul+%F0%9F%8C%B7;Learning+and+Building+Every+Day+%E2%9C%A8" />
+\<img src="[https://readme-typing-svg.demolab.com?font=Playfair+Display&size=21&duration=3500&pause=1000&color=7B9B82&center=true&vCenter=true&width=500&lines=Building+ideas+into+reality.;Curiosity+drives+the+process.;Learning.+Creating.+Evolving](https://readme-typing-svg.demolab.com?font=Playfair+Display\&size=21\&duration=3500\&pause=1000\&color=7B9B82\&center=true\&vCenter=true\&width=500\&lines=Building+ideas+into+reality.;Curiosity+drives+the+process.;Learning.+Creating.+Evolving)." />
 
-</div>
+\<br>
+
+*In for the cool things!*
+
+\</div>
 
 ---
 
-### 🍃 About Me
+### About
 
-- 🎓 Computer Science Engineering student.
-- 🌱 Currently exploring Web Development and DSA.
-- 💻 Interested in building creative tech projects.
-- ✨ Learning something new every day.
-- 🎀 Believer in learning by building.
+I'm a Computer Science student interested in exploring technology, solving problems, and building things that make an impact.
 
-### 🧁 Tech Stack
+- Currently exploring tech.
+- Learning through experimentation and hands-on projects.
+- Interested in creative problem-solving .
 
-<p>
-<img src="https://img.shields.io/badge/C-A8C3A0?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-F4B8C5?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-A8C3A0?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-F4B8C5?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-A8C3A0?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F4B8C5?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
+### Technologies
 
-### 🌷 Projects I'm Growing
+\<p> \<img src="[https://img.shields.io/badge/C-A8C3A0?style=flat-square&logo=c&logoColor=white](https://img.shields.io/badge/C-A8C3A0?style=flat-square\&logo=c\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Python-F4B8C5?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-F4B8C5?style=flat-square\&logo=python\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Java-A8C3A0?style=flat-square&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-A8C3A0?style=flat-square\&logo=openjdk\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/HTML5-F4B8C5?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-F4B8C5?style=flat-square\&logo=html5\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/CSS3-A8C3A0?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-A8C3A0?style=flat-square\&logo=css3\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/JavaScript-F4B8C5?style=flat-square&logo=javascript&logoColor=white](https://img.shields.io/badge/JavaScript-F4B8C5?style=flat-square\&logo=javascript\&logoColor=white)"/> \</p>
 
-- 🎮 Space Shooter
-- 🏷️ Labelora
-- 💡 More little experiments coming soon...
+### Selected Projects
 
-### 🌱 Currently Learning
+| Project       | Description                                               |
+| :------------ | :-------------------------------------------------------- |
+| Labelora      | Exploring smarter ways to understand product ingredients. |
+| Space Shooter | A small game development experiment.                      |
 
-- Data
+### Currently Exploring
+
+- Data Structures & Algorithms
+- Java Development
+- Frontend Development
+- Open Source
+
+---
+
+\<div align="center">
+
+### GitHub Activity
+
+\<img src="[https://github-readme-stats.vercel.app/api?username=devanandan-a&show_icons=true&bg_color=fff5f7&title_color=7B9B82&icon_color=E8A6B7&text_color=526B58&hide_border=true](https://github-readme-stats.vercel.app/api?username=devanandan-a\&show_icons=true\&bg_color=fff5f7\&title_color=7B9B82\&icon_color=E8A6B7\&text_color=526B58\&hide_border=true)"/>
+
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=devanandan-a&layout=compact&bg_color=fff5f7&title_color=7B9B82&text_color=526B58&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=devanandan-a\&layout=compact\&bg_color=fff5f7\&title_color=7B9B82\&text_color=526B58\&hide_border=true)"/>
+
+\<br>
+
+*Building as I go. Learning along the way.*
+
+\</div>
