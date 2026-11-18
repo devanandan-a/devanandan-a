@@ -1,3 +1,4 @@
+```markdown
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=FFC9D6&height=180&section=header&text=Devanandana&fontSize=48&fontColor=526B58&fontAlignY=40)
 
 <div align="center">
@@ -8,7 +9,7 @@
 
 <br>
 
-<img src="./pastel_girl_running.gif" width="280">
+<img src="./Pastel%20Garden%20Girl%20Running%20Animation.gif" width="280">
 
 </div>
 
@@ -59,13 +60,11 @@ Computer Science student exploring technology, experimenting with ideas and buil
 
 *Building as I go. Learning along the way.*
 
-</div>
 <br>
 
-<div align="center">
-
-<img src="./pastel_garden_runner.gif" width="100%" alt="A little girl running through a pastel garden">
+<img src="./Pastel%20Garden%20Girl%20Running%20Animation.gif" width="100%" alt="A little girl running through a pastel garden">
 
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFC9D6&height=100&section=footer)
+```
