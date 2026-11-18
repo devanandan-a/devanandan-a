@@ -1,4 +1,4 @@
-```markdown
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=FFC9D6&height=180&section=header&text=Devanandana&fontSize=48&fontColor=526B58&fontAlignY=40)
 
 <div align="center">
@@ -67,4 +67,4 @@ Computer Science student exploring technology, experimenting with ideas and buil
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFC9D6&height=100&section=footer)
-```
+
