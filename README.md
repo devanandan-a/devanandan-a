@@ -6,6 +6,10 @@
 
 *In for the cool things!*
 
+<br>
+
+<img src="./pastel_girl_running.gif" width="280">
+
 </div>
 
 ---
@@ -43,13 +47,15 @@ Computer Science student exploring technology, experimenting with ideas and buil
 
 ---
 
+<div align="center">
+
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanandan-a&show_icons=true&bg_color=fff5f7&title_color=7B9B82&icon_color=E8A6B7&text_color=526B58&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=devanandan-a&show_icons=true&bg_color=fff5f7&title_color=7B9B82&icon_color=E8A6B7&text_color=526B58&hide_border=true" width="48%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanandan-a&layout=compact&bg_color=fff5f7&title_color=7B9B82&text_color=526B58&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanandan-a&layout=compact&bg_color=fff5f7&title_color=7B9B82&text_color=526B58&hide_border=true" width="48%">
 
-<div align="center">
+<br>
 
 *Building as I go. Learning along the way.*
 
