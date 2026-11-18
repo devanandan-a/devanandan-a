@@ -60,5 +60,12 @@ Computer Science student exploring technology, experimenting with ideas and buil
 *Building as I go. Learning along the way.*
 
 </div>
+<br>
+
+<div align="center">
+
+<img src="./pastel_garden_runner.gif" width="100%" alt="A little girl running through a pastel garden">
+
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFC9D6&height=100&section=footer)
