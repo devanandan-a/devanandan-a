@@ -62,7 +62,6 @@ Computer Science student exploring technology, experimenting with ideas and buil
 
 <br>
 
-<img src="./Pastel%20Garden%20Girl%20Running%20Animation.gif" width="100%" alt="A little girl running through a pastel garden">
 
 </div>
 
